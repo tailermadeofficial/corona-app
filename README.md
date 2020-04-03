@@ -13,6 +13,8 @@ As per the outbreak of this serious disease.we have formed a community with peop
 
 This is a sample app provided to show developers what Applicasa looks like in action, and help them see a real example of integrating Applicasa into their applications.
 
+<img src="https://raw.github.com/tailermadeofficial/corona-app/blob/master/corona-app-screen.jpeg"/>
+
 ## About Applicasa
 
 Applicasa is a Mobile Game Management Platform that provides developers a series of frameworks and a custom SDK for iOS and Android platforms that provide extensive support for In-App Purchases, Promotions, Analytics, and a customizable backend datastore. You can find out more information at [the Applicasa website](http://applicasa.com).
